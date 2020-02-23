@@ -1,0 +1,51 @@
+basic:
+    https://youtu.be/WYG2ZZjgp5M  What is MATLAB? 
+    https://youtu.be/0w9NKt6Fixk  MATLAB Variables 
+    https://youtu.be/aRSkNpCSgWY MATLAB as a Calculator
+    https://youtu.be/RJp46UVQBic MATLAB Functions
+    https://youtu.be/XjzxCVWKz58 Getting Started with MATLAB Online
+    https://youtu.be/B3lWLIrYjC0  Managing Files in MATLAB Online
+
+Vectors:
+
+    https://youtu.be/R5Mnkrk9Mos  Creating Vectors
+    https://youtu.be/_zqTOV5yl8Y  Creating Uniformly Spaced Vectors
+    https://youtu.be/8D04GW_foQ0 Accessing Elements of a Vector Using Conditions
+    https://youtu.be/VQaZ0TvjF0c  Calculations with Vectors
+    https://youtu.be/vgRLwjHBmsg  Vector Transpose
+
+Visualisation:
+ 
+ https://youtu.be/-hhJoveE4sY  Line Plots
+ https://youtu.be/JyovEGPSdoI  Annotating Graphs
+ https://youtu.be/fBx8EFuXFLM  Multiple Plots
+
+
+Matrices:
+
+ https://youtu.be/qdTdwTh6jMo Creating Matrices 
+ https://youtu.be/mzzJ9gnMrYE Calculations with Matrices 
+ https://youtu.be/uWPHxpTuZRA  Accessing Elements of a Matrix 
+ https://youtu.be/VPcbpVd_mPA  Matrix Creation Functions 
+ https://youtu.be/ejTr3ekTTyA  Combining Matrices 
+ https://youtu.be/IF9-ffmxuy8  Determining Array Size and Length 
+ https://youtu.be/4hsx3bdNjGk Matrix Multiplication 
+ https://youtu.be/UQpDIHlFo8A  Reshaping Arrays 
+ https://youtu.be/Y97W3_u7cM4  Statistical Functions with Matrices
+
+
+
+MATLAB Programming:
+  https://youtu.be/bRMg4GsFDQ8 Logical Variables 
+ https://youtu.be/JZSuU-Laigo If-Else Statements 
+ https://youtu.be/lg65bzgvI5c Writing a FOR loop 
+ https://youtu.be/PKH5lCMJXbk  Writing a WHILE Loop  
+ https://youtu.be/GrcNN04eqXU  Writing Functions 
+ https://youtu.be/aNCwR9dRjHs  Passing Functions as Inputs  </ul>
+
+
+Troubleshooting:
+  https://youtu.be/54n5zJwR8aM  Using Online Documentation 
+ https://youtu.be/Z09BvGeYNdE  Which File or Variable Am I Using?  
+ https://youtu.be/DB4aJMnZtNQ  Troubleshooting Code with the Debugger </ul>
+
